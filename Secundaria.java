@@ -1,4 +1,4 @@
-package entero;
+package sample;
 
 import javafx.application.Platform;
 import javafx.event.ActionEvent;

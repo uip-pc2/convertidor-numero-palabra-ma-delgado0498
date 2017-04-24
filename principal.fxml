@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
-<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Principal">
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Principal">
     <columnConstraints>
         <ColumnConstraints />
         <ColumnConstraints />
@@ -24,9 +24,9 @@
             <items>
                 <AnchorPane prefHeight="6.0" prefWidth="498.0">
                     <children>
-                        <Label contentDisplay="RIGHT" layoutX="125.0" layoutY="29.0" prefHeight="60.0" prefWidth="227.0" style="-fx-background-color: #B9341B;" text="Ingrese Int&amp;Sale String" textAlignment="CENTER" textFill="#0a0505" textOverrun="WORD_ELLIPSIS">
+                        <Label layoutX="103.0" layoutY="20.0" prefHeight="45.0" prefWidth="288.0" style="-fx-background-color: #B9341B;" text=" TRANSFORMACIÓN INT A STRING" textAlignment="CENTER" textFill="#f8f6f6">
                             <font>
-                                <Font name="Microsoft Himalaya" size="34.0" />
+                                <Font name="System Bold" size="17.0" />
                             </font>
                         </Label>
                         <AnchorPane layoutX="14.0" layoutY="65.0" prefHeight="219.0" prefWidth="474.0">
